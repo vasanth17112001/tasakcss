@@ -1,0 +1,268 @@
+body{
+    background-color: rgb(95, 6, 50);
+   
+}
+
+.next{
+    width: 700px;
+    background-color: antiquewhite;
+    margin-left: 400px;
+    border: 10px solid rgb(129, 1, 65);
+}
+
+.headimg{
+    width: 120px;
+    padding: 5px ;
+}
+
+.headpara{
+    text-align: right;
+    margin-top: -52px;
+    font-size: 15px;
+    font-weight: bold;
+    padding-right: 12px;
+}
+.hr1{
+    margin-top: 30px;
+    position: relative;
+    border: none;
+    height: 2px;
+    background: black; 
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+.navbar{
+    list-style-type: none;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+
+li{
+    float: left;
+}
+
+li a {
+    display: block;  
+    text-align: center;
+    color: rgb(116, 19, 19);
+    padding: 10px 12px;
+    text-decoration: none;
+    font-weight: 10px;
+}
+
+.flight{
+    width: 700px;
+    position: relative;
+}
+.fl1{
+    width: 150px;
+    position: absolute;
+    margin-top: -100px;
+    margin-left:500px ;
+    background-color: rgb(95, 6, 50);
+    color: antiquewhite;
+    padding: 10px;
+    border-radius: 2px;
+}
+.fl2{
+    position: absolute;
+    margin-top: -50px;
+    margin-left: 562px;
+    background-color:rgb(95, 6, 50) ;
+    color: antiquewhite;
+    padding: 10px;
+    box-shadow: 5px 5px 2px antiquewhite inset;
+}
+.dear{
+    padding-left: 15px;
+}
+.sp1{
+    color:rgb(95, 6, 50) ;
+}
+
+.dearpara{
+    margin-top: -14px;
+    position: relative;
+    border: none;
+    height: 2px;
+    background: black;
+    margin-right: 12px;
+}
+
+.special{
+    padding: 15px 15px;
+}
+
+
+h1{
+    font-size: 25px;
+    color: rgb(95, 6, 50);
+}
+.view{
+    text-align: right;
+    color: rgb(95, 6, 50);
+     margin-top: -40px;
+}
+
+i{
+    color: rgb(95, 6, 50);
+}
+
+.chennai{
+    margin-left: 15px;
+    color: aliceblue;
+    background:  rgb(95, 6, 50);
+    padding: 1px;
+    margin-right: 12px;
+    padding-left: 10px;
+}
+.hrc{
+    border: none;
+    margin-top: 30px;
+    position: relative;
+    border: none;
+    height: 2px;
+    background: black; 
+    margin-left: 12px;
+    width: 320px;
+    
+
+}
+
+
+
+.chicago{
+    margin-left: 12px;
+    margin-top: 1px;
+    color: rgb(95, 6, 50);
+}
+
+
+.newp1{
+    margin-left: 12px;
+    color: rgb(95, 6, 50);
+
+}
+
+.hrc1{
+    margin-top: 60px;
+    position: relative;
+    border: none;
+    height: 3px;
+    background: black;  
+    width: 320px;
+    margin-left: 12px;
+}
+.hc1{
+    margin-top: 29px;
+    position: relative;
+    border: none;
+    height: 2px;
+    background: black;  
+    width: 320px;
+    margin-left: 12px;
+}
+
+.newyork{
+    margin-left: 340px;
+    margin-top: -125px;
+    
+}
+.hrc3{
+    border: none;
+    position: relative;
+    height: 2px;
+    background-color: black;
+    width: 320px;
+    margin-left: 12px ;
+    margin-top: 23px;
+
+}
+
+.hrc4{
+    border: none;
+    position: relative;
+    height: 2px;
+    background-color: black;
+    width: 320px;
+    margin-left: 12px ;
+    margin-top: 23px;
+
+}
+
+#ter{
+    padding: 15px;
+}
+
+.terms{
+    font-style: italic;
+    color:rgb(95, 6, 50) ;
+}
+
+.excl{
+    background:rgb(116, 161, 158) ;
+    padding: 12px;
+    color: aliceblue;
+}
+
+.travel{
+    width: 200px;
+    margin-left: 12px;
+}
+.red{
+    color: rgb(95, 6, 50);
+}
+
+h3{
+    font-weight: bold;
+    color: rgb(95, 6, 50);
+}
+
+.ex{
+    width: 495px;
+    margin-left: 215px;
+    margin-top: -155px;
+
+}
+.pink{
+    position: relative;
+    border: none;
+    height: 2px;
+    background: black;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+#p{
+    color:rgb(95, 6, 50) ;
+    margin-left: 12px;
+    padding: 15px;
+
+}
+
+.final{
+    margin-left: 410px;
+    color: aliceblue;
+    
+}
+
+.finalhr{
+    position: relative;
+    margin-left: 410px;
+    width: 700px;
+    margin-top: -40px;
+}
+
+
+.under{
+    margin-left: 410px;
+    color: aliceblue;
+    width: 700px;
+
+}
